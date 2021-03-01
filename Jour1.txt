@@ -1,0 +1,10 @@
+Ce que j'ai appris aujourd'hui : 
+
+- Découverte de mes co-équipiers et de la façon dont Simplon fonctionne
+- Conseils pour bien suivre la formation (bien utile)
+- Point d'organisation 
+- Création d'une roue d'apprentissage pour nous auto-évaluer tout au long de la formation
+- Découverte de Git 
+    - Création d'un nouveau projet sous Git
+    - Création d'un repository local et distant
+    - Travail à plusieurs sur un même repository
