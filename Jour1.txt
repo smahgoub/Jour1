@@ -1,4 +1,4 @@
-Ce que j'ai appris aujourd'hui : 
+Jour 1 : Ce que j'ai appris aujourd'hui : 
 
 - Découverte de mes co-équipiers et de la façon dont Simplon fonctionne
 - Conseils pour bien suivre la formation (bien utile)
@@ -8,3 +8,14 @@ Ce que j'ai appris aujourd'hui :
     - Création d'un nouveau projet sous Git
     - Création d'un repository local et distant
     - Travail à plusieurs sur un même repository
+    
+ Jour 7 :  Ce que j'ai appris depuis la dernière fois :
+
+        - Code simple sous Java :
+            - Boucles avec While et For
+            - Conditions avec if
+            - Décalartion et affectation de variables
+            - Définition des fonctions
+            - Exercices simples
+
+        - Mieux connaitre git et ne plus faire d'erreur quand je commit...
